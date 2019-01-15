@@ -3,6 +3,7 @@
   "version": "0.0.2",
   "description": "svg badges for IPFS content identifiers",
   "main": "index.js",
+  "types": "cidbadge.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
