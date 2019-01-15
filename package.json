@@ -1,0 +1,24 @@
+{
+  "name": "cidbadge",
+  "version": "0.0.1",
+  "description": "svg badges for IPFS content identifiers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/JChanceHud/cidbadge.git"
+  },
+  "keywords": [
+    "svg",
+    "badge",
+    "ipfs"
+  ],
+  "author": "Chance Hudson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JChanceHud/cidbadge/issues"
+  },
+  "homepage": "https://github.com/JChanceHud/cidbadge#readme"
+}
