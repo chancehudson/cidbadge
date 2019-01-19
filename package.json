@@ -1,6 +1,6 @@
 {
   "name": "cidbadge",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "svg badges for IPFS content identifiers",
   "main": "index.js",
   "types": "index.d.ts",
