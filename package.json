@@ -4,6 +4,9 @@
   "description": "svg badges for IPFS content identifiers",
   "main": "index.js",
   "types": "index.d.ts",
+  "bin": {
+    "cidbadge": "./cli.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
