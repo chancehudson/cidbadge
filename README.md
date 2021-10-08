@@ -30,5 +30,15 @@ This will output the following svg text:
 Renders as the following:
 ![](https://raw.githubusercontent.com/JChanceHud/cidbadge/master/badge.svg?sanitize=true)
 
+## CLI Use
+
+`npx cidbadge /ipfs/QmWiNATFRiqGd1daYhno5DuHRCgJivQrRSToKW18GsHf9e ./badge.svg`
+
+```
+Usage: cidbadge <ipfs path|cid> <output path>
+
+Outputs an SVG badge with the cid text supplied.
+```
+
 ## License
 MIT
